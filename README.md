@@ -1,5 +1,5 @@
 # リポジトリ  
-management
+management  
 ・ペルソナ(母親)  
 ・ペルソナ(女の子)  
 ・6upスケッチ  
